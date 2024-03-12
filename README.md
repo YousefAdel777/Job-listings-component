@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-job-listings-page-using-react-tailwindcss-and-vite-MiU0GxOiAEm)
+- Live Site URL: [Add live site URL here](https://job-listings-component.netlify.app)
 
 ## My process
 
